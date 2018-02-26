@@ -1,0 +1,2 @@
+127.0.0.1 - - [04/Aug/2017:09:29:18 +0800] "POST /rest/new/user HTTP/1.1" 201 - http-bio-80-exec-1 1247
+127.0.0.1 - - [04/Aug/2017:09:31:04 +0800] "DELETE /rest/new/user HTTP/1.1" 400 - http-bio-80-exec-3 10

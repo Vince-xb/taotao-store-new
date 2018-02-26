@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [26/Jul/2017:15:27:54 +0800] "GET /itcast-manager HTTP/1.1" 404 - http-bio-80-exec-1 0
+0:0:0:0:0:0:0:1 - - [26/Jul/2017:15:28:11 +0800] "GET /itcast-manager/index.jsp HTTP/1.1" 404 - http-bio-80-exec-3 0

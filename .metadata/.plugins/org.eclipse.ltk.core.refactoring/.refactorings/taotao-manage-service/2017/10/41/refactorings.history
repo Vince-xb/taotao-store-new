@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;queryListByWhere&apos; from expression &apos;super.queryListByWhere(record)&apos;&#x0D;&#x0A;- Original project: &apos;taotao-manage-service&apos;&#x0D;&#x0A;- Variable name: &apos;queryListByWhere&apos;&#x0D;&#x0A;- Destination method: &apos;com.taotao.manage.service.ContentCategoryService.deleteAll()&apos;&#x0D;&#x0A;- Variable expression: &apos;super.queryListByWhere(record)&apos;" description="Extract local variable &apos;queryListByWhere&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src\/main\/java&lt;com.taotao.manage.service{ContentCategoryService.java" name="queryListByWhere" replace="false" selection="1380 0" stamp="1507535275162" version="1.0"/>
+</session>

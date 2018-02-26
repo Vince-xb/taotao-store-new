@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;itcast-manager&apos; to &apos;itcast-manage&apos;" description="Rename resource &apos;itcast-manager&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/itcast-manager" name="itcast-manage" stamp="1500973754833" updateReferences="true"/>&#x0A;&#x0A;</session>
